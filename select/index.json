@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I will...",
+  "base_artist": "藍井エイル",
+  "createdAt": "2026-02-18T13:20:55.379319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby I Will",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/01_Baby_I_Will_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/02_I_Will_Always_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton & Vince Gill",
+      "has_synced": true,
+      "path": "select/03_I_Will_Always_Love_You_Dolly_Parton_&_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton and Vince Gill",
+      "has_synced": true,
+      "path": "select/04_I_Will_Always_Love_You_Dolly_Parton_and_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/05_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Will Always Love You - Original Version",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_I_Will_Always_Love_You_-_Original_Version_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/08_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Will Be There",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/09_I_Will_Be_There_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Be",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/10_I_Will_Be_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Will Be",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_I_Will_Be_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Will Be Fine",
+      "artist": "莫文蔚",
+      "has_synced": true,
+      "path": "select/12_I_Will_Be_Fine_莫文蔚.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Will (feat. KXNG Crooked, Royce da 5'9\" & Joell Ortiz)",
+      "artist": "Eminem feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz",
+      "has_synced": true,
+      "path": "select/13_I_Will_(feat._KXNG_Crooked,_Royce_da_5'9__&_Joell_Ortiz)_Eminem_feat._KXNG_Crooked,_Royce_Da_5'9__&_Joell_Ortiz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_I_Will_(feat._KXNG_Crooked,_Royce_Da_5'9__&_Joell_Ortiz)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Will Not Apologize",
+      "artist": "The Roots feat. Porn & Dice Raw",
+      "has_synced": true,
+      "path": "select/15_I_Will_Not_Apologize_The_Roots_feat._Porn_&_Dice_Raw.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Will",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_I_Will_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Will",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_I_Will_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Will (Electric Lady Studios)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/18_I_Will_(Electric_Lady_Studios)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baby I Will (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/19_Baby_I_Will_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I will...",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_01_I_will..._藍井エイル.txt"
+    }
+  ]
+}
